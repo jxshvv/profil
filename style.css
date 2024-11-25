@@ -32,3 +32,12 @@ h1 {
 .hry > img {
     width: 50%;
 }
+a {
+    text-decoration: none;
+    color: yellowgreen;
+    text
+}
+
+a:hover {
+    color: red;
+}
